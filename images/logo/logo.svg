@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="100" viewBox="0 0 300 100">
-  <text x="10" y="50" font-size="148" font-family="Arial" font-weight="bold">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="200" viewBox="0 0 500 200">
+  <text x="10" y="150" font-size="148" font-family="Arial" font-weight="bold">
     <tspan fill="navy">MPL</tspan>
-    <tspan fill="red" dx="10">Gym</tspan>
+    <tspan fill="red" dx="20">Gym</tspan>
   </text>
 </svg>
+
