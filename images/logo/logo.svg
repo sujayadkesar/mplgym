@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300">
+<svg xmlns="http://www.w3.org/2000/svg" padding-top="10px" width="600" height="300" viewBox="0 0 600 300">
   <text x="10" y="200" font-size="148" font-family="Arial" font-weight="bold">
     <tspan fill="navy">MPL</tspan>
     <tspan fill="red" dx="20">Gym</tspan>
